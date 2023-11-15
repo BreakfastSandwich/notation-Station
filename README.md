@@ -4,5 +4,7 @@ This application uses Node.JS/ Express.JS to create a basic server used to creat
 
 To use the application you simply give your note a title, then the body of the note you with to record. once you hit save note the note is added to the database.
 
+check out the deployed site at: https://stark-brushlands-60405-eeb1da29b568.herokuapp.com/
+
 ![Getting Started](./public/assets/images/Screenshot%202023-11-15%20184050.png)
 ![Getting Started](./public/assets/images/Screenshot%202023-11-15%20184100.png)
