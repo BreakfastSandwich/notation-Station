@@ -11,7 +11,7 @@ const { title } = require('process');
 
 
 const app = express();
-const port = process.env.PORT || 3001
+const PORT = process.env.PORT || 3001
 
 
 // app.use(routes);
@@ -72,14 +72,7 @@ app.get('/api/notes', (req, res) => {
     // return res.status(200).json(title);
   });
 
-  // GET request for ALL reviews
-app.delete('/api/notes/:id', (req, res) => {
- 
-  db.filter(${id})
-  res.sendFile(path.join(__dirname, '/db/db.json'))
 
-
-});
 
 
 
